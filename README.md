@@ -1,8 +1,5 @@
 
-Memory updated
-Here’s the updated README file including the information about the project’s transition from a monolithic application and the acknowledgment of your mentor:
 
-Microservices Project
 Overview
 This project is a conversion of a previously monolithic quiz application into a microservices-based architecture. It includes the following components:
 
